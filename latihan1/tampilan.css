@@ -1,0 +1,9 @@
+h1 {
+    color: #0288d1;
+    /*Ini untuk memberi warna*/
+    font-family: "Segoe UI";
+    /*Untuk ganti font*/
+    text-align: center;
+    /*Membuat text ke tengah*/
+    text-decoration: underline;
+}
